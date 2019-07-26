@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+TUTORIAL DE APLICACIÓN ANGULAR
+---------
+1. Creamos un  proyecto angular con `ng new (nombre de la app) todo-app`
+2. Instalamos dependencias y modulos para trabajar con angular: 
+## instalar firebase, angular firebase, font-awesome, bootstrap, ng-bootstrap
+* Ponemos el siguiente comando: npm install firebase @angular/fire font-awesome bootstrap @ng-bootstrap/ng-bootstrap --save
+esto es para instalar dependencias siguientes: 
+1. + font-awesome@4.7.0
+2. + @angular/fire@5.2.1
+3. + bootstrap@4.3.1
+4. + firebase@6.3.3
+5. + @ng-bootstrap/ng-bootstrap@5.1.0
+
